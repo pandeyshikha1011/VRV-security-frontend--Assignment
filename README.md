@@ -65,8 +65,8 @@ This will start the app on http://localhost:3000. You should be able to access t
 
 If you encounter any issues or need further clarification, feel free to contact me at:
 
-- Email: shivipandey993@gmail.com
-- Phone: +91 6307976482
+- Email: pandeyshikha1011@gmail.com
+- Phone: +91 8818873774
 
 
 
